@@ -119,7 +119,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Apply
-  url: /apply/
+  url: {{/apply/ | relative_url }}
 - title: Instructors
   url: /instructors/
 - title: Syllabus
