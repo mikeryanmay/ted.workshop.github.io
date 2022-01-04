@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: http://localhost:4000/ted.workshop.github.io/sitemap.xml

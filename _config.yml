@@ -92,7 +92,7 @@ title: "Total-Evidence-Dating Workshop" # Site name or title, also used in jekyl
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Website for the total-evidence dating workshop 2022" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/ted.workshop.github.io"
 repo: "https://github.com/mikeryanmay/ted.workshop.github.io"
 email: "mikeryanmay@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

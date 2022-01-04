@@ -1,8 +1,8 @@
-const version = '20220104193548';
+const version = '20220104194814';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/apply/","/categories/","/coc/","/elements/","/blog/","/","/instructors/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/syllabus/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/ted.workshop.github.io/general/2016/08/29/example-post-three/","/ted.workshop.github.io/history/external%20sources/2016/08/28/example-post-two/","/ted.workshop.github.io/general/external%20sources/2016/08/27/example-post-one/","/ted.workshop.github.io/apply/","/ted.workshop.github.io/categories/","/ted.workshop.github.io/coc/","/ted.workshop.github.io/elements/","/ted.workshop.github.io/blog/","/ted.workshop.github.io/","/ted.workshop.github.io/instructors/","/ted.workshop.github.io/manifest.json","/ted.workshop.github.io/offline/","/ted.workshop.github.io/assets/search.json","/ted.workshop.github.io/search/","/ted.workshop.github.io/assets/styles.css","/ted.workshop.github.io/syllabus/","/ted.workshop.github.io/thanks/","/ted.workshop.github.io/redirects.json","/ted.workshop.github.io/sitemap.xml","/ted.workshop.github.io/robots.txt","/ted.workshop.github.io/blog/page2/","/ted.workshop.github.io/feed.xml","/ted.workshop.github.io/assets/styles.css.map","/ted.workshop.github.io/assets/logos/logo.svg", "/ted.workshop.github.io/assets/default-offline-image.png", "/ted.workshop.github.io/assets/scripts/fetch.js"
   ]
 }
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "/assets/default-offline-image.png";
+    offlineAsset = "/ted.workshop.github.io/assets/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page
