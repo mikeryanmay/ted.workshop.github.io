@@ -1,13 +1,20 @@
 ---
 title:
-feature_text:
-feature_image: "https://picsum.photos/1300/400?image=989"
 ---
+
+## Required Software
+
+Please install the following software **before** the workshop begins.
+Don't hesitate to [get in touch](mailto:mikeryanmay@gmail.com) if you encounter problems installing any of this software.
+
 
 ## Before the Workshop
 
-We'll be using RevBayes for the hands-on tutorials in this course.
-To get the most out of the course, participants should
+To get the most out of the course, participants who are not already familiar with RevBayes should follow these introductory tutorials:
+- [Getting Started](https://revbayes.github.io/tutorials/intro/getting_started)
+- [Rev Language Syntax](https://revbayes.github.io/tutorials/intro/rev)
+- [Introduction to Graphical Models](https://revbayes.github.io/tutorials/intro/graph_models)
+
 
 ## Workshop Schedule
 

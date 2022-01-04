@@ -1,7 +1,5 @@
 ---
 title: Code of Conduct
-feature_text:
-feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 (Based on Stay-At-Home RevBayes Workshop Code of Conduct found [here](https://drive.google.com/file/d/1XHeS8wmRy_sezBdt_rMXWAkVkAi0Pyj8/view).)
