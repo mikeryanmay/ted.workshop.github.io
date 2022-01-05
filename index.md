@@ -1,5 +1,5 @@
 ---
-title: Total-Evidence Dating Workshop
+title: 
 feature_text:
 ---
 
