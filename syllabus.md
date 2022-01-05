@@ -2,8 +2,6 @@
 title:
 ---
 
-## Required Software
-
 Please install the following software **before** the workshop begins.
 Don't hesitate to [get in touch](mailto:mikeryanmay@gmail.com) if you encounter problems installing any of this software.
 
