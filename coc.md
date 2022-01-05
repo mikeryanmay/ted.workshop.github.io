@@ -22,7 +22,11 @@ Instructors shall not be responsible for any defamatory, offensive, or illegal c
 
 Violations of the Code of Conduct are reportable to any of the instructors via direct message on Slack or email (see table below). In the case that a workshop attendee or instructor wishes to report inappropriate behavior of one of the workshop instructors, please consider contacting an instructor at a different institution.
 
-| Instructor Name | Email                     | Institution
-| :---            | :---                      | :---
-| Carl Rothfels   | crothfels@berkeley.edu    | UC Berkeley
-| Michael May     | mikeryanmay@gmail.com     | UC Berkeley
+| Instructor Name                       | Email                                                              | Institution
+| :---                                  | :---                                                               | :---
+| Carl Rothfels                         | [crothfels@berkeley.edu](mailto:crothfels@berkeley.edu)            | UC Berkeley
+| Cindy Looy                            | [looy@berkeley.edu](looy@berkeley.edu)                             | UC Berkeley
+| Michael Sundue                        | [sundue@gmail.com](sundue@gmail.com)                               | University of Vermont
+| Michael May                           | [mikeryanmay@gmail.com](mikeryanmay@gmail.com)                     | UC Berkeley
+| Benjamin Muddiman                     | [bmuddiman@berkeley.edu](bmuddiman@berkeley.edu)                   | UC Berkeley
+| Ixchel Gonz&aacute;lez-Ram&iacute;rez | [ixchel_gonzalezrmz@berkeley.edu](ixchel_gonzalezrmz@berkeley.edu) | UC Berkeley

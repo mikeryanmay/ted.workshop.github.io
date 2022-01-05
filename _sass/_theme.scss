@@ -1,3 +1,12 @@
+// Nicer looking tables
+th {
+    border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
 // A nice-looking list class
 .niceList + ul {
     margin-top: -1.5em;
