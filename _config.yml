@@ -132,6 +132,7 @@ navigation_header:
 #   url: /links/
 
 navigation_footer:
+- title: NSF DEB 1754705, 1754723, 1754385
 - title: Art by Ivo Duijnstee
 - title: Alembic theme by David Darnes
   url: https://darn.es

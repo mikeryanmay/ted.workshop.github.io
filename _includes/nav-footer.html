@@ -9,9 +9,10 @@
         {% assign url = item.url | relative_url %}
       {% endif %}
 
-      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+      <li style="font-size:16px" class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
         <a href="{{ url }}">{{ item.title }}</a>
       </li>
+
     {% endfor %}
   </ul>
 </nav>
