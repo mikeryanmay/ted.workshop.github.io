@@ -1,4 +1,9 @@
-
+// A nice-looking list class
+.niceList + ul {
+    margin-top: -1.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2em;
+}
 
 /* Background image */
 .bg {
@@ -56,6 +61,7 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 .container {
@@ -188,7 +194,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 80%;
   }
 }
 

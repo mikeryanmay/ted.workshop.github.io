@@ -90,7 +90,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Total-Evidence-Dating Workshop" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-banner: "/assets/banner_transp.png"
+banner: "/assets/banner_transp_wide.png"
 description: "Website for the total-evidence dating workshop 2022" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mikeryanmay.github.io/ted.workshop.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: "/ted.workshop.github.io"
@@ -121,8 +121,8 @@ navigation_header:
   url: /
 - title: Apply
   url: /apply/
-- title: Instructors
-  url: /instructors/
+# - title: Instructors
+#   url: /instructors/
 - title: Syllabus
   url: /syllabus/
 - title: CoC
