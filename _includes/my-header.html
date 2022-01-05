@@ -1,0 +1,21 @@
+<header class="header">
+
+    {% if site.banner %}
+        <div class="bg">
+            <img src="{{site.baseurl}}{{site.banner}}" class="backgroundImage">
+            <div class="top-right">
+                {% include nav-header.html %}
+            </div>
+        </div>
+        <!-- <div class="feature" style="background-image: url( {{site.baseurl}}{{site.banner}} )" >
+            <div class="container">
+                {% include nav-header.html %}
+            </div>
+        </div> -->
+    {% else  %}
+        {% include nav-header.html %}
+    {% endif %}
+
+  {% include site-feature.html %}
+
+</header>

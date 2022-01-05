@@ -1,3 +1,53 @@
+
+
+/* Background image */
+.bg {
+    position: relative;
+    text-align: center;
+}
+
+.backgroundImage {
+    height: 400px;
+    width: auto;
+    object-fit: cover;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 // Structural elements
 body {
   background: $backgroundColour;
@@ -49,12 +99,13 @@ body {
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   .container {
     min-height: 35vh;
     max-width: 100%;
     @include flex-direction(column);
-    @include justify-content(center);
+    @include justify-content(top);
   }
 }
 

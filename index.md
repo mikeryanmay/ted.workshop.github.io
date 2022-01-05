@@ -1,7 +1,6 @@
 ---
 title:
 feature_text:
-feature_image: "assets/banner_transp.png"
 ---
 
 Welcome to the Total-Evidence Dating Workshop homepage!
