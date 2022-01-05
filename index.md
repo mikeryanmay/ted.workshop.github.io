@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 feature_text:
 ---
 
@@ -11,7 +11,7 @@ The course will begin on March XX and run for 5 weeks (ending week of May YY).
 Each week, we will discuss a particular topic related to total-evidence dating (Tuesday), provide experience with related methods with relevant hands-on tutorials (to be done throughout the week), and hold office hours to discuss the weekly topic and to help with practical issues that arise during the tutorials (Friday).
 See our [Syllabus]({{site.baseurl}}/syllabus) for more details about the topics covered each week.
 
-**Applications:** The deadline for applications is January 31 2022. Please see our [Applications]({{site.baseurl}}/apply) page for more details.
+**Applications:** Please complete our application form here to apply. The deadline for applications is January 31 2022. We expect to make application decisions by Feb ZZ 2022.
 
 **Instructors:** Carl Rothfels, Cindy Looy, Michael Sundue, Michael May, Benjamin Muddiman, and Ixchel Gonz&aacute;lez-Ram&iacute;rez.
 
