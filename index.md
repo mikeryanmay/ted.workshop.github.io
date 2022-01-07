@@ -17,4 +17,4 @@ See our [Syllabus]({{site.baseurl}}/syllabus) for more details about the topics 
 
 **Code of Conduct:** All workshop attendants, including instructors and students, are expected to behave according to our workshop [Code of Conduct]({{site.baseurl}}/coc).
 
-**Brought to you by** the Vascular Plant Timeline Working Group and NSF grants DEB-1754705, DEB-1754723, and DEB-1754385.
+**Brought to you by** the Vascular Plant Timeline Working Group, the letters T, E, and D, and NSF grants DEB-1754705, DEB-1754723, and DEB-1754385.
