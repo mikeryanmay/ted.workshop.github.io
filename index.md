@@ -16,3 +16,5 @@ See our [Syllabus]({{site.baseurl}}/syllabus) for more details about the topics 
 **Instructors:** Carl Rothfels ([crothfels@berkeley.edu](mailto:crothfels@berkeley.edu)), Cindy Looy ([looy@berkeley.edu](mailto:looy@berkeley.edu)), Michael Sundue ([sundue@gmail.com](mailto:sundue@gmail.com)), Michael May ([mikeryanmay@gmail.com](mailto:mikeryanmay@gmail.com)), Benjamin Muddiman ([bmuddiman@berkeley.edu](mailto:bmuddiman@berkeley.edu)), and Ixchel Gonz&aacute;lez-Ram&iacute;rez ([ixchel_gonzalezrmz@berkeley.edu](mailto:ixchel_gonzalezrmz@berkeley.edu)).
 
 **Code of Conduct:** All workshop attendants, including instructors and students, are expected to behave according to our workshop [Code of Conduct]({{site.baseurl}}/coc).
+
+**Brought to you by** the Vascular Plant Timeline Working Group and NSF grants DEB-1754705, DEB-1754723, and DEB-1754385.

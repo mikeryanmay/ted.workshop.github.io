@@ -89,7 +89,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Total-Evidence-Dating Workshop" # Site name or title, also used in jekyll-seo-tag
-name: "Plant Evolution Timeline Working Group"
+name: "Vascular Plant Timeline Working Group"
 # logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 banner: "/assets/banner_transp_wide.png"
 description: "Website for the total-evidence dating workshop 2022" # Site description and default description, also used in jekyll-seo-tag
@@ -132,7 +132,7 @@ navigation_header:
 #   url: /links/
 
 navigation_footer:
-- title: NSF DEB 1754705, 1754723, 1754385
+# - title: NSF DEB 1754705, 1754723, 1754385
 - title: Art by Ivo Duijnstee
 - title: Alembic theme by David Darnes
   url: https://darn.es
