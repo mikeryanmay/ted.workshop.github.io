@@ -33,33 +33,33 @@ You should also consider watching Paul Lewis' excellent Phyloseminar series Phyl
 
 ## Schedule
 
-##### Week 1: Introductions and orientation
+##### Week 1 (March 2): Introductions and orientation
 
 Tutorials:
 <div class="niceList"></div>
 - [Introduction to MCMC with RevBayes](https://revbayes.github.io/tutorials/mcmc/binomial.html)
 - [Nucleotide substitution models](https://revbayes.github.io/tutorials/ctmc/)
 
-##### Week 2: Divergence-time estimation: Relaxed clocks
+##### Week 2 (March 9): Divergence-time estimation: Relaxed clocks
 
 Tutorials:
 <div class="niceList"></div>
 - [Molecular Dating](https://revbayes.github.io/tutorials/dating/) (relaxed clocks and calibrations)
 
-##### Week 3: Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
+##### Week 3 (March 16): Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
 
 Tutorials:
 <div class="niceList"></div>
 - [Molecular Dating](https://revbayes.github.io/tutorials/dating/) (total-evidence dating)
 
-##### Week 4: Morphology and the fossil record
+##### Week 4 (March 23): Morphology and the fossil record
 
 Tutorials:
 <div class="niceList"></div>
 - [Discrete Morphology (Tree Inference)](https://revbayes.github.io/tutorials/morph_tree/)
 - [Discrete Morphology (Multistate Characters)](https://revbayes.github.io/tutorials/morph_tree/V2.html)
 
-##### Week 5: Putting it all together
+##### Week 5 (March 30): Putting it all together
 
 Tutorials:
 <div class="niceList"></div>
