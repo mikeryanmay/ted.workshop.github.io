@@ -11,8 +11,8 @@ The course will begin on March 2 and run for 5 weeks (ending week of March 30).
 Each week, we will discuss a particular topic related to total-evidence dating (Wednesday), provide experience with related methods with relevant hands-on tutorials (to be done throughout the week), and hold office hours to discuss the weekly topic and to help with practical issues that arise during the tutorials (Friday).
 See our [Syllabus]({{site.baseurl}}/syllabus) for more details about the topics covered each week.
 
-**Applications:** Please complete our application form here to apply. The deadline for applications is January 28 2022. We expect to make application decisions by Feb 11 2022.
+**Applications:** Please complete our application form [HERE](ADDRESS) to apply. The deadline for applications is January 28 2022. We expect to make application decisions by Feb 11 2022.
 
-**Instructors:** Carl Rothfels, Cindy Looy, Michael Sundue, Michael May, Benjamin Muddiman, and Ixchel Gonz&aacute;lez-Ram&iacute;rez.
+**Instructors:** Carl Rothfels ([crothfels@berkeley.edu](mailto:crothfels@berkeley.edu)), Cindy Looy ([looy@berkeley.edu](mailto:looy@berkeley.edu)), Michael Sundue ([sundue@gmail.com](mailto:sundue@gmail.com)), Michael May ([mikeryanmay@gmail.com](mailto:mikeryanmay@gmail.com)), Benjamin Muddiman ([bmuddiman@berkeley.edu](mailto:bmuddiman@berkeley.edu)), and Ixchel Gonz&aacute;lez-Ram&iacute;rez ([ixchel_gonzalezrmz@berkeley.edu](mailto:ixchel_gonzalezrmz@berkeley.edu)).
 
 **Code of Conduct:** All workshop attendants, including instructors and students, are expected to behave according to our workshop [Code of Conduct]({{site.baseurl}}/coc).
