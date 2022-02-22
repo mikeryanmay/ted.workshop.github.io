@@ -88,7 +88,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Online Dating Tips: A Total-Evidence-Dating Workshop" # Site name or title, also used in jekyll-seo-tag
+title: "Divergence-Time Estimation: a virtual workshop" # Site name or title, also used in jekyll-seo-tag
 name: "Vascular Plant Timeline Working Group"
 # logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 banner: "/assets/DTE_logo_wide_transp.png"

@@ -21,7 +21,6 @@ If you are not already familiar with RevBayes, you should follow these introduct
 <div class="niceList"></div>
 - [Getting Started](https://revbayes.github.io/tutorials/intro/getting_started)
 - [Rev Language Syntax](https://revbayes.github.io/tutorials/intro/rev)
-- [Introduction to Graphical Models](https://revbayes.github.io/tutorials/intro/graph_models)
 
 You should also consider watching Paul Lewis' excellent Phyloseminar series Phylogenetics 101:
 
