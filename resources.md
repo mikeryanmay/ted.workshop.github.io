@@ -9,6 +9,18 @@ title: Resources
 - Documentation for all the [functions in RevBayes](https://revbayes.github.io/documentation/)
 - a full list of [RevBayes tutorials](https://revbayes.github.io/tutorials/)
 
+## Websites
+<p></p>
+<div class="niceList"></div>
+- [Paul Lewis' MCMC Robot!](https://plewis.github.io/applets/mcmc-robot/)
+
+## Videos
+
+<p></p>
+<div class="niceList"></div>
+- [Paul Lewis' Phyloseminar Phyloseminar series Phylogenetics 101](https://www.youtube.com/watch?v=1r4z0YJq580)
+
+
 ## Opportunities
 
 <p></p>
