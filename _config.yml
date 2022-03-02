@@ -126,6 +126,8 @@ navigation_header:
 #   url: /instructors/
 - title: Syllabus
   url: /syllabus/
+- title: Lectures
+  url: /lectures/
 - title: Resources
   url: /resources/
 - title: CoC

@@ -35,11 +35,6 @@ You should also consider watching Paul Lewis' excellent Phyloseminar series Phyl
 ##### Week 1 (March 2): Introductions and orientation
 
 Lecture: Bayesian Phylogenetic Inference
-<p align="center">
-	<a href="https://youtu.be/JKPdaJ-EQcA">
-		<img src="https://img.youtube.com/vi/JKPdaJ-EQcA/0.jpg">
-	</a>
-</p>
 
 <!-- <a href="https://youtu.be/5H_u9bjn064"><img src="https://raw.githubusercontent.com/mikeryanmay/website/792d47671ce22dcf4d79de65c8f3e733ee94cc70/assets/img/YouTube_icon.svg" alt="HTML tutorial" style="width:36px;height:36px;"></a> -->
 
