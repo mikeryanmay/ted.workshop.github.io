@@ -47,13 +47,13 @@ Tutorials:
 
 Tutorials:
 <div class="niceList"></div>
-- [Molecular Dating](https://revbayes.github.io/tutorials/dating/) (relaxed clocks and calibrations)
+- [Relaxed Clocks & Time Trees](https://revbayes.github.io/tutorials/clocks/)
 
 ##### Week 3 (March 16): Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
 
 Tutorials:
 <div class="niceList"></div>
-- [Molecular Dating](https://revbayes.github.io/tutorials/dating/) (total-evidence dating)
+- [Estimating a Time-Calibrated Phylogeny of Fossil and Extant Taxa using Morphological Data](https://revbayes.github.io/tutorials/fbd_simple/)
 
 ##### Week 4 (March 23): Morphology and the fossil record
 
