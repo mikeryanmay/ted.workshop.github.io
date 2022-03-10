@@ -128,6 +128,8 @@ navigation_header:
   url: /syllabus/
 - title: Lectures
   url: /lectures/
+- title: Q&A
+  url: /QandA/
 - title: Resources
   url: /resources/
 - title: CoC

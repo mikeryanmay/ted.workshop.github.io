@@ -30,6 +30,13 @@
   
   
   {
+    "title": "Questions and Answers",
+    "excerpt": "\n",
+    "content": "\nWeek 2: Divergence-time Estimation with Node calibrations\n\n\nQ: If you are not showing branch lengths but just a cladogram schematic of how taxa are related, and you’re rooting with an outgroup, is the FigTree “root” okay? (Context: FigTree adds an arbitrary root edge when you root an phylogram, but really the root could be anywhere along the branch leading to the outgroup.)\n\nThe “FigTree rooting problem” is just about branch lengths (where the root is placed along the branch), so a cladogram shouldn’t be compromised\n\nQ: Do you have examples of uncorrelated clock models? Organisms? (Context: discussing the relative realism of autocorrelated and uncorrelated relaxed molecular clocks.)\n\nUncorrelated models are really motivated by tractability. Some argue that if rates of change of the rate are high, then branch rates should be uncorrelated.\n\nQ: How do you pick the type of distribution you draw your rates from (for a relaxed molecular clock)?\n\nYou can compare the fit of these models with model selection tools (in a Bayesian analysis this means a Bayes factor). See Relaxed Clocks &amp; Time Trees for an example.\n\nQ: Is node calibration applicable for fossils only datasets?\n\nIf you only have fossils, they should be tips in your tree, which is more like total-evidence dating. Node calibration is how we add temporal information to a molecular phylogeny.\n\nQ: If you have a fossil that is used to date the family you study, but you are focusing on phylogenetics of a particular genus, can you still use the fossil? Do you just include appropriate outgroups in the tree to reflect the fossil?\n\nYes, that is often called an external calibration. It is a common solution to the problem of no ingroup fossils.\n\nQ (follow up): We need the sequences of these other groups, right?\n\nYes.\n\nQ: How do you compare the effect of different calibration densities then? Or you shouldn’t compare them at all cause they are data? (Context: you can only compare models for the same data, and fossil calibrations are data.)\n\nYou can compare the effect of using different calibrations (e.g., the effect on inferred divergence times), but you can’t compare the fit.\n",
+    "url": "/ted.workshop.github.io/QandA/"
+  },
+  
+  {
     "title": "How to Apply",
     "excerpt": "\n",
     "content": "\n",
@@ -67,7 +74,7 @@
   {
     "title": "Lectures",
     "excerpt": "\n",
-    "content": "Week 1: Bayesian Phylogenetic Inference\n\n \n\n\t\n\t\t\n\t\n\n",
+    "content": "Week 1: Bayesian Phylogenetic Inference\n\n \n\n\t\n\t\t\n\t\n\n\nWeek 2: Divergence-time Estimation 1: Nuts and Bolts\n\n \n\n\t\n\t\t\n\t\n\n",
     "url": "/ted.workshop.github.io/lectures/"
   },
   
@@ -88,7 +95,7 @@
   {
     "title": "Syllabus",
     "excerpt": "\n",
-    "content": "Required Software\n\nPlease install the following software before the workshop begins.\nDon’t hesitate to get in touch if you encounter problems installing any of this software.\n\n\n\n  RevBayes v1.1.1\n  Slack\n  Zoom\n  BBEdit, Notepad++, Atom, Sublime Text, or any other plain-text editor.\n  R and RStudio (highly recommended but not required). We also recommend installing the RevBayes helper packages RevGadgets and convenience.\n\n\nBefore the Workshop\n\nIf you are not already familiar with RevBayes, you should follow these introductory tutorials:\n\n\n\n  Getting Started\n  Rev Language Syntax\n\n\nYou should also consider watching Paul Lewis’ excellent Phyloseminar series Phylogenetics 101:\n\n\n\n  Trees and Likelihood\n  Substitution Models\n  Bayesian statistics and MCMC\n  Bayesian phylogenetics\n\n\nSchedule\n\nWeek 1 (March 2): Introductions and orientation\n\nLecture: Bayesian Phylogenetic Inference\n\n\n\nTutorials:\n\n\n  Introduction to MCMC with RevBayes\n  Nucleotide substitution models\n\n\nWeek 2 (March 9): Divergence-time estimation: Relaxed clocks\n\nTutorials:\n\n\n  Molecular Dating (relaxed clocks and calibrations)\n\n\nWeek 3 (March 16): Divergence-time estimation: Total-evidence dating and the fossilized birth-death process\n\nTutorials:\n\n\n  Molecular Dating (total-evidence dating)\n\n\nWeek 4 (March 23): Morphology and the fossil record\n\nTutorials:\n\n\n  Discrete Morphology (Tree Inference)\n  Discrete Morphology (Multistate Characters)\n\n\nWeek 5 (March 30): Putting it all together\n\nTutorials:\n\n\n  Making total-evidence dating work for you\n\n",
+    "content": "Required Software\n\nPlease install the following software before the workshop begins.\nDon’t hesitate to get in touch if you encounter problems installing any of this software.\n\n\n\n  RevBayes v1.1.1\n  Slack\n  Zoom\n  BBEdit, Notepad++, Atom, Sublime Text, or any other plain-text editor.\n  R and RStudio (highly recommended but not required). We also recommend installing the RevBayes helper packages RevGadgets and convenience.\n\n\nBefore the Workshop\n\nIf you are not already familiar with RevBayes, you should follow these introductory tutorials:\n\n\n\n  Getting Started\n  Rev Language Syntax\n\n\nYou should also consider watching Paul Lewis’ excellent Phyloseminar series Phylogenetics 101:\n\n\n\n  Trees and Likelihood\n  Substitution Models\n  Bayesian statistics and MCMC\n  Bayesian phylogenetics\n\n\nSchedule\n\nWeek 1 (March 2): Introductions and orientation\n\nLecture: Bayesian Phylogenetic Inference\n\n\n\nTutorials:\n\n\n  Introduction to MCMC with RevBayes\n  Nucleotide substitution models\n\n\nWeek 2 (March 9): Divergence-time estimation: Relaxed clocks\n\nTutorials:\n\n\n  Relaxed Clocks &amp; Time Trees\n\n\nWeek 3 (March 16): Divergence-time estimation: Total-evidence dating and the fossilized birth-death process\n\nTutorials:\n\n\n  Estimating a Time-Calibrated Phylogeny of Fossil and Extant Taxa using Morphological Data\n\n\nWeek 4 (March 23): Morphology and the fossil record\n\nTutorials:\n\n\n  Discrete Morphology (Tree Inference)\n  Discrete Morphology (Multistate Characters)\n\n\nWeek 5 (March 30): Putting it all together\n\nTutorials:\n\n\n  Making total-evidence dating work for you\n\n",
     "url": "/ted.workshop.github.io/syllabus/"
   }
   
