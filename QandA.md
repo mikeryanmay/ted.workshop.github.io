@@ -10,6 +10,7 @@ title: Questions and Answers
 
 The “FigTree rooting problem” is just about branch lengths (where the root is placed along the branch), so a cladogram shouldn’t be compromised. AS LONG AS your outgroup is monophyletic. In many cases the outgroup isn't truly a clade (it might include some samples from the clade sister to the ingroup, and then some samples from the clade sister to that, for example), in which case adding that "Curse of Figtree" root will result in an incorrect topology.
 
+
 **Q: Do you have examples of uncorrelated clock models? Organisms? (Context: discussing the relative realism of autocorrelated and uncorrelated relaxed molecular clocks.)**
 
 Uncorrelated models are really motivated by computational tractability. Some argue that if rates of change of the rate are high, then branch rates should be uncorrelated.

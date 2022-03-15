@@ -13,6 +13,7 @@ title: Resources
 <p></p>
 <div class="niceList"></div>
 - [Paul Lewis' MCMC Robot!](https://plewis.github.io/applets/mcmc-robot/)
+- [Mike's RevBayes distribution plotter](https://mikeryanmay.shinyapps.io/plotprior/)
 
 ## Videos
 
