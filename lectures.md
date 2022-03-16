@@ -19,3 +19,12 @@ title: Lectures
 		<img src="https://img.youtube.com/vi/MxWwcyfHVX4/0.jpg">
 	</a>
 </p>
+
+##### Week 3: Divergence-time Estimation 2: Total-Evidence Dating
+
+&nbsp;
+<p align="center">
+	<a href="https://youtu.be/4Qz5phCYN6s">
+		<img src="https://img.youtube.com/vi/4Qz5phCYN6s/0.jpg">
+	</a>
+</p>
