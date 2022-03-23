@@ -28,3 +28,12 @@ title: Lectures
 		<img src="https://img.youtube.com/vi/4Qz5phCYN6s/0.jpg">
 	</a>
 </p>
+
+##### Week 4: The Fossil Record and Morphology
+
+&nbsp;
+<p align="center">
+	<a href="https://youtu.be/1HKcpTcZTb0">
+		<img src="https://img.youtube.com/vi/1HKcpTcZTb0/0.jpg">
+	</a>
+</p>
