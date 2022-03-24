@@ -91,8 +91,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     minitest (5.15.0)
-    nokogiri (1.12.5-arm64-darwin)
-      racc (~> 1.4)
     nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -118,6 +116,7 @@ GEM
     zeitwerk (2.5.3)
 
 PLATFORMS
+  ruby
   universal-darwin-21
   x86_64-darwin-16
 
