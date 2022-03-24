@@ -44,6 +44,13 @@
   },
   
   {
+    "title": "Bibliography",
+    "excerpt": "\n",
+    "content": "\n\t\n\n",
+    "url": "/ted.workshop.github.io/bibliography/"
+  },
+  
+  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
@@ -74,14 +81,14 @@
   {
     "title": "Lectures",
     "excerpt": "\n",
-    "content": "Week 1: Bayesian Phylogenetic Inference\n\n \n\n\t\n\t\t\n\t\n\n\nWeek 2: Divergence-time Estimation 1: Nuts and Bolts\n\n \n\n\t\n\t\t\n\t\n\n",
+    "content": "Week 1: Bayesian Phylogenetic Inference\n\n \n\n\t\n\t\t\n\t\n\n\nWeek 2: Divergence-time Estimation 1: Nuts and Bolts\n\n \n\n\t\n\t\t\n\t\n\n\nWeek 3: Divergence-time Estimation 2: Total-Evidence Dating\n\n \n\n\t\n\t\t\n\t\n\n\nWeek 4: The Fossil Record and Morphology\n\n \n\n\t\n\t\t\n\t\n\n",
     "url": "/ted.workshop.github.io/lectures/"
   },
   
   {
     "title": "Resources",
     "excerpt": "\n",
-    "content": "Software\n\n\n\n\n  Documentation for all the functions in RevBayes\n  a full list of RevBayes tutorials\n\n\nWebsites\n\n\n\n  Paul Lewis’ MCMC Robot!\n\n\nVideos\n\n\n\n\n  Paul Lewis’ Phyloseminar Phyloseminar series Phylogenetics 101\n\n\nOpportunities\n\n\n\n\n  Dr. April Wright is hiring a postdoc to work on fossils + phylogeny! Check it out!\n\n",
+    "content": "Software\n\n\n\n\n  Documentation for all the functions in RevBayes\n  a full list of RevBayes tutorials\n\n\nWebsites\n\n\n\n  Paul Lewis’ MCMC Robot!\n  Mike’s RevBayes distribution plotter\n\n\nVideos\n\n\n\n\n  Paul Lewis’ Phyloseminar Phyloseminar series Phylogenetics 101\n\n\nOpportunities\n\n\n\n\n  Dr. April Wright is hiring a postdoc to work on fossils + phylogeny! Check it out!\n\n",
     "url": "/ted.workshop.github.io/resources/"
   },
   
