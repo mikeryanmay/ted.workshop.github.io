@@ -14,7 +14,7 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-        * Superb entry-level textbook introducing the principles of model-baesd phylogenetic inference.
+        - Superb entry-level textbook introducing the principles of model-based phylogenetic inference.
 
 	<li> {% include citation.html
 		authors = "Holder, Mark and Paul O. Lewis"
@@ -27,7 +27,7 @@ title: Bibliography
 		year    = "2003"
 	%} </li>
 
-        * These guys know a lot about Bayesian phylogenetics.
+        - These guys know a lot about Bayesian phylogenetics.
 
 </ul>
 
@@ -47,8 +47,8 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-        * Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.)
-        
+        - Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.)
+
 	<li> {% include citation.html
 		authors = "Condamine, Fabien L., Nathalie S. Nagalingum, Charles R. Marshall, and Hélène Morlon"
 		title   = "Origin and diversification of living cycads: a cautionary tale on the impact of the branching process prior in Bayesian molecular dating"
@@ -60,7 +60,12 @@ title: Bibliography
 		year    = "2015"
 	%} </li>
 
+</ul>
 
+
+#### Divergence-time estimation: Relaxed clocks
+
+<ul>
 	<li> {% include citation.html
 		authors = "Drummond, Alexei J., Simon Y. W. Ho, Matthew J. Phillips, and Andrew Rambaut"
 		title   = "Relaxed phylogenetics and dating with confidence"
@@ -72,7 +77,12 @@ title: Bibliography
 		year    = "2006"
 	%} </li>
 
+</ul>
 
+
+#### Divergence-time estimation, node dating, secondary calibrations
+
+<ul>
 	<li> {% include citation.html
 		authors = "Graur, Dan and William Martin"
 		title   = "Reading the entrails of chickens: molecular timescales of evolution and the illusion of precision"
@@ -84,6 +94,7 @@ title: Bibliography
 		year    = "2004"
 	%} </li>
 
+        - The "Spandrels" of divergence-time estimation. Not exactly the most friendly paper, and terrified a generation of practitioners, but also full of good points.
 
 	<li> {% include citation.html
 		authors = "Marshall, Charles R."
