@@ -374,6 +374,7 @@ title: Bibliography
 		year    = "1997"
 	%} </li>
 
+
 		<li> {% include citation.html
 		authors = "Maddison, Wayne P."
 		title   = "Missing data versus missing characters in phylogenetic analysis"
@@ -407,5 +408,28 @@ title: Bibliography
 		year    = "1999"
 	%} </li>
 
+	
+	<li> {% include citation.html
+		authors = "Tarasov, Sergei"
+		title   = "Integration of anatomy ontologies and evo-devo using structured Markov models suggests a new framework for modeling discrete phenotypic traits"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1093/sysbio/syz005"
+		volume  = "68"
+		issue   = "5"
+		pages   = "698-716"
+		year    = "2019"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Wright, April M., Graeme T. Lloyd, and David M. Hillis"
+		title   = "Modeling character change heterogeneity in phylogenetic analyses of morphology through the use of priors"
+		journal = "Systematic Biology"
+		doi     = "https://doi.org/10.1093/sysbio/syv122"
+		volume  = "65"
+		issue   = "54"
+		pages   = "602-611"
+		year    = "2016"
+	%} </li>
 
 </ul>
