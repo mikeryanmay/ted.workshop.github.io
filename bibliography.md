@@ -4,21 +4,17 @@ title: Bibliography
 
 <br>
 
-#### Bayesian phylogenetic inference
+#### Bayesian phylogenetic inference, general principles
 
 <ul>
 
 	<li> {% include citation.html
-		authors = "Baum, David A., Stacey DeWitt Smith, and Samuel S.S. Donovan"
-		title   = "The tree-thinking challenge"
-		journal = "Science"
-		doi     = "https://doi.org/10.1126/science.1117727"
-		volume  = "310"
-		issue   = "5750"
-		pages   = "979-980"
-		year    = "2005"
+		authors = "Baum, David A., and Stacey DeWitt Smith"
+		title   = "Tree thinking: An introduction to Phylogenetic Biology"
+		year    = "2013"
 	%} </li>
 
+        * Superb entry-level textbook introducing the principles of model-baesd phylogenetic inference.
 
 	<li> {% include citation.html
 		authors = "Holder, Mark and Paul O. Lewis"
@@ -31,11 +27,12 @@ title: Bibliography
 		year    = "2003"
 	%} </li>
 
+        * These guys know a lot about Bayesian phylogenetics.
 
 </ul>
 
 
-#### Divergence-time estimation: Relaxed clocks
+#### Divergence-time estimation: Non-identifiability/model sensitivity
 
 <ul>
 
@@ -50,7 +47,8 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-
+        * Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.)
+        
 	<li> {% include citation.html
 		authors = "Condamine, Fabien L., Nathalie S. Nagalingum, Charles R. Marshall, and Hélène Morlon"
 		title   = "Origin and diversification of living cycads: a cautionary tale on the impact of the branching process prior in Bayesian molecular dating"
