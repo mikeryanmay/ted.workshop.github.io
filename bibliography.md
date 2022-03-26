@@ -32,7 +32,6 @@ title: Bibliography
 	%} </li>
 
 
-
 </ul>
 
 
@@ -77,6 +76,18 @@ title: Bibliography
 
 
 	<li> {% include citation.html
+		authors = "Graur, Dan and William Martin"
+		title   = "Reading the entrails of chickens: molecular timescales of evolution and the illusion of precision"
+		journal = "TRENDS in Genetics"
+		doi     = "https://doi.org/10.1016/j.tig.2003.12.003"
+		volume  = "20"
+		issue   = "2"
+		pages   = "80-86"
+		year    = "2004"
+	%} </li>
+
+
+	<li> {% include citation.html
 		authors = "Marshall, Charles R."
 		title   = "Using the fossil record to evaluate timetree timescales"
 		journal = "Frontiers in Genetics"
@@ -114,41 +125,6 @@ title: Bibliography
 
 
 	<li> {% include citation.html
-		authors = "Graur, Dan and William Martin"
-		title   = "Reading the entrails of chickens: molecular timescales of evolution and the illusion of precision"
-		journal = "TRENDS in Genetics"
-		doi     = "https://doi.org/10.1016/j.tig.2003.12.003"
-		volume  = "20"
-		issue   = "2"
-		pages   = "80-86"
-		year    = "2004"
-	%} </li>
-
-
-
-	<li> {% include citation.html	
-		authors = "Sauquet, Hervé, Santiago Ramírez-Barahona, and Susana Magallón"
-		title   = "The age of flowering plants is unknown"
-		journal = "BioArXv"
-		doi     = "10.32942/osf.io/n4v6b"
-		issue   = "preprint"
-		year    = "2022"
-	%} </li>
-
-
-	<li> {% include citation.html
-		authors = "Carl J. Rothfels, Anne K. Johnson, Peter H. Hovenkamp, David L. Swofford, Harry C. Roskam, Christopher R. Fraser-Jenkins, Michael D. Windham, and Kathleen M. Pryer"
-		title   = "Natural hybridization between genera that diverged from each other approximately 60 million years ago"
-		journal = "The American Naturalist"
-		doi     = "https://doi.org/10.1086/679662"
-		volume  = "185"
-		issue   = "3"
-		pages   = "433-442"
-		year    = "2015"
-	%} </li>
-
-
-	<li> {% include citation.html
 		authors = "Rothfels, Carl J. and Eric Schuettpelz"
 		title   = "Accelerated rate of molecular evolution for vittarioid ferns is strong and not driven by selection"
 		journal = "Systematic Biology"
@@ -160,11 +136,45 @@ title: Bibliography
 	%} </li>
 
 
+	<li> {% include citation.html
+		authors = "Rothfels, Carl J., Anne K. Johnson, Peter H. Hovenkamp, David L. Swofford, Harry C. Roskam, Christopher R. Fraser-Jenkins, Michael D. Windham, and Kathleen M. Pryer"
+		title   = "Natural hybridization between genera that diverged from each other approximately 60 million years ago"
+		journal = "The American Naturalist"
+		doi     = "https://doi.org/10.1086/679662"
+		volume  = "185"
+		issue   = "3"
+		pages   = "433-442"
+		year    = "2015"
+	%} </li>
+
+	<li> {% include citation.html	
+		authors = "Sauquet, Hervé, Santiago Ramírez-Barahona, and Susana Magallón"
+		title   = "The age of flowering plants is unknown"
+		journal = "BioArXv"
+		doi     = "10.32942/osf.io/n4v6b"
+		issue   = "preprint"
+		year    = "2022"
+	%} </li>
+
+
+
 </ul>
 
 #### Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
 
 <ul>
+
+	<li> {% include citation.html
+		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei JDrummond"
+		title   = "Bayesian total-evidence dating reveals the recent crown radiation of penguins"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1093/sysbio/syw060"
+		volume  = "66"
+		issue   = "1"
+		pages   = "57-73"
+		year    = "2017"
+	%} </li>
+
 
 	<li> {% include citation.html
 		authors = "Heath, Tracy A., John P. Huelsenbeck, and Tanja Stadler"
@@ -189,18 +199,6 @@ title: Bibliography
 		year    = "2016"
 	%} </li>
 
-
-	<li> {% include citation.html
-		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei JDrummond"
-		title   = "Bayesian total-evidence dating reveals the recent crown radiation of penguins"
-		journal = "Systematic biology"
-		doi     = "https://doi.org/10.1093/sysbio/syw060"
-		volume  = "66"
-		issue   = "1"
-		pages   = "57-73"
-		year    = "2017"
-	%} </li>
-
 </ul>
 
 
@@ -208,6 +206,43 @@ title: Bibliography
 #### The Fossil Record
 
 <ul>
+
+	<li> {% include citation.html
+		authors = "Quental, Tiago B. and Charles R. Marshall"
+		title   = "Diversity dynamics: molecular phylogenies need the fossil record"
+		journal = "Trends in ecology & evolution"
+		doi     = "https://doi.org/10.1016/j.tree.2010.05.002"
+		volume  = "25"
+		issue   = "8"
+		pages   = "434-441"
+		year    = "2010"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Quental, Tiago B. and Charles R. Marshall"
+		title   = "Extinction during evolutionary radiations: reconciling the fossil record with molecular phylogenies"
+		journal = "Evolution: International Journal of Organic Evolution"
+		doi     = "https://doi.org/10.1111/j.1558-5646.2009.00794.x"
+		volume  = "63"
+		issue   = "12"
+		pages   = "3158-3167"
+		year    = "2009"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Marshall, Charles R."
+		title   = "Using the fossil record to evaluate timetree timescales"
+		journal = "Frontiers in Genetics"
+		doi     = "https://doi.org/10.3389/fgene.2019.01049"
+		volume  = "10"
+		issue   = "1"
+		pages   = "1049"
+		year    = "2019"
+	%} </li>
+
+
 	<li> {% include citation.html
 		authors = "Marshall, Charles R."
 		title   = "A simple method for bracketing absolute divergence times on molecular phylogenies using multiple fossil calibration points"
@@ -257,26 +292,14 @@ title: Bibliography
 
 
 	<li> {% include citation.html
-		authors = "Quental, Tiago B. and Charles R. Marshall"
-		title   = "Diversity dynamics: molecular phylogenies need the fossil record"
-		journal = "Trends in ecology & evolution"
-		doi     = "https://doi.org/10.1016/j.tree.2010.05.002"
-		volume  = "25"
-		issue   = "8"
-		pages   = "434-441"
-		year    = "2010"
-	%} </li>
-
-
-	<li> {% include citation.html
-		authors = "Quental, Tiago B. and Charles R. Marshall"
-		title   = "Extinction during evolutionary radiations: reconciling the fossil record with molecular phylogenies"
-		journal = "Evolution: International Journal of Organic Evolution"
-		doi     = "https://doi.org/10.1111/j.1558-5646.2009.00794.x"
-		volume  = "63"
-		issue   = "12"
-		pages   = "3158-3167"
-		year    = "2009"
+		authors = "Parham, James F., Philip C.J. Donoghue, Christopher J. Bell, Tyler D. Calway, Jason J. Head,  Patricia A. Holroyd, Jun G. Inoue, Randall B. Irmis, Walter G. Joyce, and Daniel T. Ksepka, José S. L. Patané,  Nathan D. Smith,  James E. Tarver,  Marcel van Tuinen, Ziheng Yang,  Kenneth D. Angielczyk,  Jenny M. Greenwood,  Christy A. Hipsley, Louis Jacobs,  Peter J. Makovicky,  Johannes Müller,  Krister T. Smith,  Jessica M. Theodor, Rachel C. M. Warnock, and Michael J. Benton"
+		title   = "Best practices for justifying fossil calibrations"
+		journal = "Systematic Biology"
+		doi     = "https://doi.org/10.1093/sysbio/syr107"
+		volume  = "61"
+		issue   = "2"
+		pages   = "346-359"
+		year    = "2012"
 	%} </li>
 
 
