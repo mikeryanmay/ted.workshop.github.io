@@ -1,8 +1,8 @@
 ---
 title: Bibliography
 ---
-##### A list of papers that we think are important for understanding divergence-time estimation, sometimes accompanied by our witty commentary. If there's a paper that you've found super helpful, let us know and we'll add it. If it is one of your own papers, all the better!!
-
+<span style="font-size:.75em;">A list of papers that we think are important for understanding divergence-time estimation, sometimes accompanied by our witty commentary. If there's a paper that you've found super helpful, let us know and we'll add it. If it is one of your own papers, all the better!!
+</span>
 <br>
 
 #### Bayesian phylogenetic inference, general principles
@@ -15,7 +15,7 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-            - Superb entry-level textbook introducing the principles of model-based phylogenetic inference.
+    - Superb entry-level textbook introducing the principles of model-based phylogenetic inference.
 
 	<li> {% include citation.html
 		authors = "Holder, Mark and Paul O. Lewis"
@@ -28,7 +28,7 @@ title: Bibliography
 		year    = "2003"
 	%} </li>
 
-            - These guys know a lot about Bayesian phylogenetics.
+    - These guys know a lot about Bayesian phylogenetics.
 
 </ul>
 
@@ -48,7 +48,7 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-        - Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.)
+    - Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.)
 
 	<li> {% include citation.html
 		authors = "Condamine, Fabien L., Nathalie S. Nagalingum, Charles R. Marshall, and Hélène Morlon"
@@ -61,6 +61,32 @@ title: Bibliography
 		year    = "2015"
 	%} </li>
 
+    - Excellent empirical example of the strong influence of the tree model on divergence-time estimates.
+
+    <li> {% include citation.html
+		authors = "Rothfels, Carl J. and Eric Schuettpelz"
+		title   = "Accelerated rate of molecular evolution for vittarioid ferns is strong and not driven by selection"
+		journal = "Systematic Biology"
+		doi     = "https://doi.org/10.1093/sysbio/syt058"
+		volume  = "63"
+		issue   = "1"
+		pages   = "31-54"
+		year    = "2014"
+	%} </li>
+
+    - Including this paper here because it provides (figure 11) a clear example of the strong influence of the clock model on divergence-time estimates.
+
+<li> {% include citation.html	
+		authors = "Sauquet, Hervé, Santiago Ramírez-Barahona, and Susana Magallón"
+		title   = "The age of flowering plants is unknown"
+		journal = "BioArXv"
+		doi     = "10.32942/osf.io/n4v6b"
+		issue   = "preprint"
+		year    = "2022"
+	%} </li>
+
+    - The title says it all? This paper discusses the impact of non-identifiability on a focal problem---the crown age of the angiosperms---and points out that the estimates of that age are effectively determined by the priors used in the analysis. They also make the excellent point that so-called "molecular age estimates" are not molecular at all---effectively all the temporal data comes from the fossils (and the models), not from the molecular data.
+    
 </ul>
 
 
@@ -78,10 +104,11 @@ title: Bibliography
 		year    = "2006"
 	%} </li>
 
+    - Among the better article titles.
 </ul>
 
 
-#### Divergence-time estimation, node dating, secondary calibrations
+#### Divergence-time estimation, node dating
 
 <ul>
 	<li> {% include citation.html
@@ -95,19 +122,7 @@ title: Bibliography
 		year    = "2004"
 	%} </li>
 
-        - The "Spandrels" of divergence-time estimation. Not exactly the most friendly paper, and terrified a generation of practitioners, but also full of good points.
-
-	<li> {% include citation.html
-		authors = "Marshall, Charles R."
-		title   = "Using the fossil record to evaluate timetree timescales"
-		journal = "Frontiers in Genetics"
-		doi     = "https://doi.org/10.3389/fgene.2019.01049"
-		volume  = "10"
-		issue   = "1"
-		pages   = "1049"
-		year    = "2019"
-	%} </li>
-
+    - The "Spandrels" of divergence-time estimation. Not exactly the most friendly paper, and terrified a generation of practitioners, but also full of good points.
 
 	<li> {% include citation.html
 		authors = "Marshall, Charles R."
@@ -120,7 +135,20 @@ title: Bibliography
 		year    = "2008"
 	%} </li>
 
+    - A method for getting more informed calibration densities by better including the information provided by the fossil record.
 
+	<li> {% include citation.html
+		authors = "Marshall, Charles R."
+		title   = "Using the fossil record to evaluate timetree timescales"
+		journal = "Frontiers in Genetics"
+		doi     = "https://doi.org/10.3389/fgene.2019.01049"
+		volume  = "10"
+		issue   = "1"
+		pages   = "1049"
+		year    = "2019"
+	%} </li>
+
+    - Lots of discussion of calibration densities for node dating, among other descriptions of the application of the fossil record to evaluating (and thus, indirectly, to inferring) divergence-time estimates.
 
 	<li> {% include citation.html
 		authors = "May, Michael R., Dori L. Contreras, Michael A. Sundue, Nathalie S. Nagalingum, Cindy V. Looy,  and Carl J. Rothfels"
@@ -133,18 +161,7 @@ title: Bibliography
 		year    = "2021"
 	%} </li>
 
-
-	<li> {% include citation.html
-		authors = "Rothfels, Carl J. and Eric Schuettpelz"
-		title   = "Accelerated rate of molecular evolution for vittarioid ferns is strong and not driven by selection"
-		journal = "Systematic Biology"
-		doi     = "https://doi.org/10.1093/sysbio/syt058"
-		volume  = "63"
-		issue   = "1"
-		pages   = "31-54"
-		year    = "2014"
-	%} </li>
-
+    - We'll shameless plug this paper multiple times in this list because we really are very proud of it, and it is foundational to our developing the perspectives we are attempting to communicate in this workshop. In the contex of node dating, we show how that method---which requires a user to associated a fossil with a node a priori---would have been severely misleading in the case of divergence times in Marattiales.
 
 	<li> {% include citation.html
 		authors = "Rothfels, Carl J., Anne K. Johnson, Peter H. Hovenkamp, David L. Swofford, Harry C. Roskam, Christopher R. Fraser-Jenkins, Michael D. Windham, and Kathleen M. Pryer"
@@ -157,16 +174,7 @@ title: Bibliography
 		year    = "2015"
 	%} </li>
 
-	<li> {% include citation.html	
-		authors = "Sauquet, Hervé, Santiago Ramírez-Barahona, and Susana Magallón"
-		title   = "The age of flowering plants is unknown"
-		journal = "BioArXv"
-		doi     = "10.32942/osf.io/n4v6b"
-		issue   = "preprint"
-		year    = "2022"
-	%} </li>
-
-
+    - This paper proposes a "sequential empirical Bayes" approach to secondary calibrations in node-dating analyses. Basically, you can use the full posterior distribution of a node age from a previous analyses as the prior in a focal analysis. Which, we argue, is dramatically superior to, for example, applying some sort of uniform prior.
 
 </ul>
 
