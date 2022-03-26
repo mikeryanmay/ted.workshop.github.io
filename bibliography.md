@@ -1,6 +1,7 @@
 ---
 title: Bibliography
 ---
+##### A list of papers that we think are important for understanding divergence-time estimation, sometimes accompanied by our witty commentary. If there's a paper that you've found super helpful, let us know and we'll add it. If it is one of your own papers, all the better!!
 
 <br>
 
@@ -14,7 +15,7 @@ title: Bibliography
 		year    = "2013"
 	%} </li>
 
-        - Superb entry-level textbook introducing the principles of model-based phylogenetic inference.
+            - Superb entry-level textbook introducing the principles of model-based phylogenetic inference.
 
 	<li> {% include citation.html
 		authors = "Holder, Mark and Paul O. Lewis"
@@ -27,7 +28,7 @@ title: Bibliography
 		year    = "2003"
 	%} </li>
 
-        - These guys know a lot about Bayesian phylogenetics.
+            - These guys know a lot about Bayesian phylogenetics.
 
 </ul>
 
