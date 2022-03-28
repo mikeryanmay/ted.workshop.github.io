@@ -90,8 +90,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_portile2 (2.6.1)
     minitest (5.15.0)
-    nokogiri (1.12.5-arm64-darwin)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
@@ -118,6 +120,7 @@ GEM
     zeitwerk (2.5.3)
 
 PLATFORMS
+  ruby
   universal-darwin-21
   x86_64-darwin-16
 
@@ -126,4 +129,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.8
+   2.3.10
