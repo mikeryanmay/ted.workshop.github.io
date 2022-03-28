@@ -66,4 +66,4 @@ Tutorials:
 
 Tutorials:
 <div class="niceList"></div>
-- Making total-evidence dating work for you
+- [Total-evidence dating, model sensitivity, and model comparison](https://revbayes.github.io/tutorials/ted_workflow/)
