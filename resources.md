@@ -8,6 +8,7 @@ title: Resources
 <div class="niceList"></div>
 - Documentation for all the [functions in RevBayes](https://revbayes.github.io/documentation/)
 - a full list of [RevBayes tutorials](https://revbayes.github.io/tutorials/)
+- [RevBayes for Mac (intel)](https://berkeley.box.com/s/pw9dsavlk3amue9atvzp8h9c9x8t6onj)
 
 ## Websites
 <p></p>
