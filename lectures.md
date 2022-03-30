@@ -37,3 +37,12 @@ title: Lectures
 		<img src="https://img.youtube.com/vi/1HKcpTcZTb0/0.jpg">
 	</a>
 </p>
+
+##### Week 5: Making Total-Evidence Dating Work for You
+
+&nbsp;
+<p align="center">
+	<a href="https://youtu.be/imyezt61d9M">
+		<img src="https://img.youtube.com/vi/imyezt61d9M/0.jpg">
+	</a>
+</p>
