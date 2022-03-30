@@ -42,7 +42,7 @@ title: Lectures
 
 &nbsp;
 <p align="center">
-	<a href="https://youtu.be/imyezt61d9M">
-		<img src="https://img.youtube.com/vi/imyezt61d9M/0.jpg">
+	<a href="https://youtu.be/w1sP-xhBb2Y">
+		<img src="https://img.youtube.com/vi/w1sP-xhBb2Y/0.jpg">
 	</a>
 </p>
