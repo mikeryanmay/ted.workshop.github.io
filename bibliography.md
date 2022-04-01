@@ -209,6 +209,21 @@ _A list of papers that we think are important for understanding divergence-time 
 #### Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
 
 <ul>
+
+    <li> {% include citation.html
+        authors	= "Pyron, R A"
+        title	= "Divergence time estimation using fossils as terminal taxa
+                and the origins of Lissamphibia"
+        journal	= "Systematic Biology"
+        doi		= "http://sysbio.oxfordjournals.org/cgi/doi/10.1093/sysbio/syr047"
+        volume	= "60"
+        number	= "4"
+        pages	= "466--481"
+        year	= "2011"
+	%} </li>
+
+ <p style="color:orange"> The first total-evidence dating paper. </p>
+
 	<li> {% include citation.html
 		authors = "Heath, Tracy A., John P. Huelsenbeck, and Tanja Stadler"
 		title   = "The fossilized birth--death process for coherent calibration of divergence-time estimates"
@@ -223,7 +238,7 @@ _A list of papers that we think are important for understanding divergence-time 
      <p style="color:orange"> Welcome to the FBD! It took me (Carl) a long time to appreciate the importance of this paper; it's a lot more than simply allowing for the inference of sampled ancestors. Hopefully this workshop has made some of these impacts more apparent. Regardless, if you have any questions, ask us! </p>
 
 	<li> {% include citation.html
-		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei JDrummond"
+		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei J. Drummond"
 		title   = "Bayesian total-evidence dating reveals the recent crown radiation of penguins"
 		journal = "Systematic biology"
 		doi     = "https://doi.org/10.1093/sysbio/syw060"
