@@ -74,7 +74,7 @@ _A list of papers that we think are important for understanding divergence-time 
 
     <p style="color:orange"> Including this paper here because it provides (figure 11) a clear example of the strong influence of the clock model on divergence-time estimates. </p>
 
-<li> {% include citation.html	
+<li> {% include citation.html
 		authors = "Sauquet, Hervé, Santiago Ramírez-Barahona, and Susana Magallón"
 		title   = "The age of flowering plants is unknown"
 		journal = "BioArXv"
@@ -84,7 +84,7 @@ _A list of papers that we think are important for understanding divergence-time 
 	%} </li>
 
     <p style="color:orange"> The title says it all? This paper discusses the impact of non-identifiability on a focal problem---the crown age of the angiosperms---and points out that the estimates of that age are effectively determined by the priors used in the analysis. They also make the excellent point that so-called "molecular age estimates" are not molecular at all---effectively all the temporal data comes from the fossils (and the models), not from the molecular data. </p>
-    
+
 </ul>
 
 
@@ -116,7 +116,7 @@ _A list of papers that we think are important for understanding divergence-time 
 
     <p style="color:orange"> Among the better article titles. </p>
 
-	
+
 </ul>
 
 
@@ -440,7 +440,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1999"
 	%} </li>
 
-	
+
 	<li> {% include citation.html
 		authors = "Tarasov, Sergei"
 		title   = "Integration of anatomy ontologies and evo-devo using structured Markov models suggests a new framework for modeling discrete phenotypic traits"
@@ -462,6 +462,164 @@ _A list of papers that we think are important for understanding divergence-time 
 		issue   = "54"
 		pages   = "602-611"
 		year    = "2016"
+	%} </li>
+
+</ul>
+
+
+
+#### Putting it all together – Total Evidence Dating with the Fossil(recovery rate)-Birth-Death Process
+
+
+<ul>
+	<li> {% include citation.html
+		authors = "Hillis, David M., Tracy A. Heath, and Katherine St. John"
+		title   = "Analysis and visualization of tree space"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1080/10635150590946961"
+		volume  = "54"
+		issue   = "3"
+		pages   = "471-482"
+		year    = "2005"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Huang, Wen, Guifang Zhou, Melissa Marchand, Jeremy R. Ash, David Morris, Paul Van Dooren, Jeremy M. Brown, Kyle A. Gallivan, and Jim C. Wilgenbusch"
+		title   = "TreeScaper: visualizing and extracting phylogenetic signal from sets of trees"
+		journal = "Molecular Biology and Evolution"
+		doi     = "https://doi.org/10.1093/molbev/msw196"
+		volume  = "33"
+		issue   = "12"
+		pages   = "3314-3316"
+		year    = "2016"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Tribble, Carrie M., William A. Freyman, Michael J. Landis, Jun Ying Lim, Joellë Barido-Sottani, Bjorn Tore Kopperud, Sebastian Hӧhna, and Michael R. May"
+		title   = "RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes"
+		journal = "Methods in Ecology and Evolution"
+		doi     = "https://doi.org/10.1111/2041-210X.13750"
+		volume  = "13"
+		issue   = "2"
+		pages   = "314-323"
+		year    = "2022"
+	%} </li>
+
+
+
+	<li> {% include citation.html
+		authors = "Robinson, David F. and Leslie R. Foulds"
+		title   = "Comparison of phylogenetic trees"
+		journal = "Mathematical biosciences"
+		doi     = "https://doi.org/10.1016/0025-5564(81)90043-2"
+		volume  = "53"
+		issue   = "1-2"
+		pages   = "131-147"
+		year    = "1981"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Kuhner, Mary K. and Joseph Felsenstein"
+		title   = "A simulation comparison of phylogeny algorithms under equal and unequal evolutionary rates."
+		journal = "Molecular biology and evolution"
+		doi     = "https://doi.org/10.1093/oxfordjournals.molbev.a040126"
+		volume  = "11"
+		issue   = "3"
+		pages   = "459-468"
+		year    = "1994"
+	%} </li>
+
+
+
+	<li> {% include citation.html
+		authors = "Kass, Robert E. and Adrian E. Raftery"
+		title   = "Bayes factors"
+		journal = "Journal of the american statistical association"
+		doi     = "https://doi.org/10.1080/01621459.1995.10476572"
+		volume  = "90"
+		issue   = "430"
+		pages   = "773-795"
+		year    = "1995"
+	%} </li>
+
+
+
+
+	<li> {% include citation.html
+		authors = "Lartillot, Nicolas and Hervé Philippe"
+		title   = "Computing Bayes factors using thermodynamic integration"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1080/10635150500433722"
+		volume  = "55"
+		issue   = "2"
+		pages   = "195-207"
+		year    = "2006"
+	%} </li>
+
+
+
+
+	<li> {% include citation.html
+		authors = "Xie, Wangang, Paul O. Lewis, Yu Fan, Lynn Kuo, and Chen, Ming-Hui"
+		title   = "Improving marginal likelihood estimation for Bayesian phylogenetic model selection"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1093/sysbio/syq085"
+		volume  = "60"
+		issue   = "2"
+		pages   = "150-160"
+		year    = "2011"
+	%} </li>
+
+
+
+	<li> {% include citation.html
+		authors = "May, Michael R and Carl J. Rothfels"
+		title   = "Mistreating birth-death models as priors in phylogenetic analysis compromises our ability to compare models"
+		journal = "bioRxiv"
+		doi     = "https://doi.org/10.1101/2021.07.12.452074"
+		volume  = ""
+		issue   = ""
+		pages   = ""
+		year    = "2021"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Bollback, Jonathan P"
+		title   = "Posterior mapping and posterior predictive distributions"
+		journal = "Statistical methods in molecular evolution"
+		doi     = "https://link.springer.com/content/pdf/10.1007/0-387-27733-1_16.pdf"
+		volume  = "54"
+		issue   = "Book chapter"
+		pages   = "439-462"
+		year    = "2015"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Brown, Jeremy M."
+		title   = "Detection of implausible phylogenetic inferences using posterior predictive assessment of model fit"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1093/sysbio/syu002"
+		volume  = "63"
+		issue   = "3"
+		pages   = "334-348"
+		year    = "2014"
+	%} </li>
+
+
+	<li> {% include citation.html
+		authors = "Höhna, Sebastian, Lyndon M. Coghill, Genevieve G. Mount, Robert C. Thomson, and Jeremy M. Brown"
+		title   = "P3: Phylogenetic posterior prediction in RevBayes"
+		journal = "Molecular biology and evolution"
+		doi     = "https://doi.org/10.1093/molbev/msy057"
+		volume  = "35"
+		issue   = "4"
+		pages   = "1028-1034"
+		year    = "2018"
 	%} </li>
 
 </ul>
