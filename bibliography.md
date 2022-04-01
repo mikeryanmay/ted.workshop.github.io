@@ -31,6 +31,7 @@ _A list of papers that we think are important for understanding divergence-time 
     <p style="color:orange"> These guys know a lot about Bayesian phylogenetics. </p>
 </ul>
 
+
 #### Divergence-time estimation: Non-identifiability/model sensitivity
 
 <ul>
@@ -46,7 +47,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2013"
 	%} </li>
 
-    <p style="color:orange"> Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this particular problem differs in this fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.) </p>
+    <p style="color:orange"> Clear discussion of the basic non-identifiability inherent in divergence-time estimation, and how this feature means that DTE differs in a fundamental way from typical applications of Bayesian inference (the data can never overwhelm the prior.) </p>
 
 	<li> {% include citation.html
 		authors = "Condamine, Fabien L., Nathalie S. Nagalingum, Charles R. Marshall, and Hélène Morlon"
@@ -102,6 +103,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2010"
 	%} </li>
 
+    <p style="color:orange"> One of the few practical implementations of autocorrelated relaxed clocks. </p>
 
 	<li> {% include citation.html
 		authors = "Drummond, Alexei J., Simon Y. W. Ho, Matthew J. Phillips, and Andrew Rambaut"
@@ -120,8 +122,6 @@ _A list of papers that we think are important for understanding divergence-time 
 </ul>
 
 
-
-
 #### Divergence-time estimation, node dating
 
 <ul>
@@ -136,7 +136,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2004"
 	%} </li>
 
-    <p style="color:orange"> The "Spandrels" of divergence-time estimation. Not exactly the most friendly paper, and terrified a generation of practitioners, but also full of good points.</p>
+    <p style="color:orange"> The "Spandrels" of divergence-time estimation. Not exactly the most friendly paper, and it terrified a generation of practitioners, but it is also full of good points (particularly that we can't ignore the uncertainty associated with our estimates).</p>
 
 	<li> {% include citation.html
 		authors = "Marshall, Charles R."
@@ -175,7 +175,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2021"
 	%} </li>
 
-    <p style="color:orange"> We'll shameless plug this paper multiple times in this list because we really are very proud of it, and it is foundational to our developing the perspectives we are attempting to communicate in this workshop. In the contex of node dating, we show how that method---which requires a user to associated a fossil with a node a priori---would have been severely misleading in the case of divergence times in Marattiales. </p>
+    <p style="color:orange"> We'll shameless plug this paper multiple times in this list because we really are very proud of it, and because it is foundational to our developing the perspectives underlying this workshop. In the contex of node dating, we show how that method---which requires a user to associate a fossil with a node a priori---would have been severely misleading in the case of divergence-time estimates in Marattiales. </p>
 
 	<li> {% include citation.html
 		authors = "Rothfels, Carl J., Anne K. Johnson, Peter H. Hovenkamp, David L. Swofford, Harry C. Roskam, Christopher R. Fraser-Jenkins, Michael D. Windham, and Kathleen M. Pryer"
@@ -190,11 +190,37 @@ _A list of papers that we think are important for understanding divergence-time 
 
     <p style="color:orange"> This paper proposes a "sequential empirical Bayes" approach to secondary calibrations in node-dating analyses. Basically, you can use the full posterior distribution of a node age from a previous analyses as the prior in a focal analysis. Which, we argue, is dramatically superior to, for example, applying some sort of uniform prior. </p>
 
+	<li> {% include citation.html
+		authors = "Parham, James F., Philip C.J. Donoghue, Christopher J. Bell, Tyler D. Calway, Jason J. Head,  Patricia A. Holroyd, Jun G. Inoue, Randall B. Irmis, Walter G. Joyce, and Daniel T. Ksepka, José S. L. Patané,  Nathan D. Smith,  James E. Tarver,  Marcel van Tuinen, Ziheng Yang,  Kenneth D. Angielczyk,  Jenny M. Greenwood,  Christy A. Hipsley, Louis Jacobs,  Peter J. Makovicky,  Johannes Müller,  Krister T. Smith,  Jessica M. Theodor, Rachel C. M. Warnock, and Michael J. Benton"
+		title   = "Best practices for justifying fossil calibrations"
+		journal = "Systematic Biology"
+		doi     = "https://doi.org/10.1093/sysbio/syr107"
+		volume  = "61"
+		issue   = "2"
+		pages   = "346-359"
+		year    = "2012"
+	%} </li>
+
+ <p style="color:orange"> A guide to best practices on the inclusion of fossil data in divergence-time estimation (from a pre-FBD/total-evidence framework -- i.e., focused on node dating), from a group of phylogenetics-focused paleobiologists. </p>
+
 </ul>
+
 
 #### Divergence-time estimation: Total-evidence dating and the fossilized birth-death process
 
 <ul>
+	<li> {% include citation.html
+		authors = "Heath, Tracy A., John P. Huelsenbeck, and Tanja Stadler"
+		title   = "The fossilized birth--death process for coherent calibration of divergence-time estimates"
+		journal = "Proceedings of the National Academy of Sciences"
+		doi     = "https://doi.org/10.1073/pnas.1319091111"
+		volume  = "111"
+		issue   = "29"
+		pages   = "E2957-E2966"
+		year    = "2014"
+	%} </li>
+
+     <p style="color:orange"> Welcome to the FBD! It took me (Carl) a long time to appreciate the importance of this paper; it's a lot more than simply allowing for the inference of sampled ancestors. Hopefully this workshop has made some of these impacts more apparent. Regardless, if you have any questions, ask us! </p>
 
 	<li> {% include citation.html
 		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei JDrummond"
@@ -205,18 +231,6 @@ _A list of papers that we think are important for understanding divergence-time 
 		issue   = "1"
 		pages   = "57-73"
 		year    = "2017"
-	%} </li>
-
-
-	<li> {% include citation.html
-		authors = "Heath, Tracy A., John P. Huelsenbeck, and Tanja Stadler"
-		title   = "The fossilized birth--death process for coherent calibration of divergence-time estimates"
-		journal = "Proceedings of the National Academy of Sciences"
-		doi     = "https://doi.org/10.1073/pnas.1319091111"
-		volume  = "111"
-		issue   = "29"
-		pages   = "E2957-E2966"
-		year    = "2014"
 	%} </li>
 
 
@@ -274,17 +288,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2019"
 	%} </li>
 
-
-	<li> {% include citation.html
-		authors = "Marshall, Charles R."
-		title   = "A simple method for bracketing absolute divergence times on molecular phylogenies using multiple fossil calibration points"
-		journal = "The American Naturalist"
-		doi     = "https://doi.org/10.1086/587523"
-		volume  = "171"
-		issue   = "6"
-		pages   = "726-742"
-		year    = "2008"
-	%} </li>
+ <p style="color:orange"> Includes a broad description of the application of the fossil record to evaluating (and thus, indirectly, to inferring) divergence-time estimates, with lots of useful stuff on FADS and LADS and other underlying issues that motivate FBD and total-evidence dating approaches (versus node-dating). </p>
 
 
 	<li> {% include citation.html
@@ -334,7 +338,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2012"
 	%} </li>
 
-
+ <p style="color:orange"> A guide to best practices on the inclusion of fossil data in divergence-time estimation (from a pre-FBD/total-evidence framework -- i.e., focused on node dating), from a group of phylogenetics-focused paleobiologists. </p>
 
 	<li> {% include citation.html
 		authors = "Wang, Steve C. and Charles R. Marshall"
@@ -350,8 +354,8 @@ _A list of papers that we think are important for understanding divergence-time 
 
 </ul>
 
-#### Morphological Data
 
+#### Morphological Data
 
 <ul>
 	<li> {% include citation.html
@@ -467,15 +471,13 @@ _A list of papers that we think are important for understanding divergence-time 
 </ul>
 
 
-
-#### Putting it all together – Total Evidence Dating with the Fossil(recovery rate)-Birth-Death Process
-
+#### Assessing results: Tree visualization 
 
 <ul>
 	<li> {% include citation.html
 		authors = "Hillis, David M., Tracy A. Heath, and Katherine St. John"
 		title   = "Analysis and visualization of tree space"
-		journal = "Systematic biology"
+		journal = "Systematic Biology"
 		doi     = "https://doi.org/10.1080/10635150590946961"
 		volume  = "54"
 		issue   = "3"
@@ -483,6 +485,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2005"
 	%} </li>
 
+ <p style="color:orange"> A foundational paper discussing ways to visualize treespace (and thus to tell if, for example, your different models are yielding different inferences). Promotes mult-dimensional scaling (MDS), those images that Mike showed with each tree represented by a colored dot arrayed in two-dimensional space. </p>
 
 	<li> {% include citation.html
 		authors = "Huang, Wen, Guifang Zhou, Melissa Marchand, Jeremy R. Ash, David Morris, Paul Van Dooren, Jeremy M. Brown, Kyle A. Gallivan, and Jim C. Wilgenbusch"
@@ -507,7 +510,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2022"
 	%} </li>
 
-
+<p style="color:orange"> RevGadgets! An R package designed for the convenient visualization of RevBayes output. Use this to make your gorgeous figures. </p>
 
 	<li> {% include citation.html
 		authors = "Robinson, David F. and Leslie R. Foulds"
@@ -520,6 +523,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1981"
 	%} </li>
 
+<p style="color:orange"> Introduces what we know call the "Robinson-Foulds distance" between phylogenetic trees. </p>
 
 	<li> {% include citation.html
 		authors = "Kuhner, Mary K. and Joseph Felsenstein"
@@ -532,7 +536,10 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1994"
 	%} </li>
 
+<p style="color:orange"> Introduces what we know call the "Kuhner-Felsenstein distance" between phylogenetic trees. </p>
 
+
+#### Assessing results: Model comparison and model adequacy 
 
 	<li> {% include citation.html
 		authors = "Kass, Robert E. and Adrian E. Raftery"
@@ -545,8 +552,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1995"
 	%} </li>
 
-
-
+<p style="color:orange"> Provides a reference for the interpretation of Bayes factors. How big should the Bayes factor be before you feel that it is important? </p>
 
 	<li> {% include citation.html
 		authors = "Lartillot, Nicolas and Hervé Philippe"
@@ -559,8 +565,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2006"
 	%} </li>
 
-
-
+<p style="color:orange"> Introduces to phylogenetics the path-sampling estimator for computing Bayes factors. </p>
 
 	<li> {% include citation.html
 		authors = "Xie, Wangang, Paul O. Lewis, Yu Fan, Lynn Kuo, and Chen, Ming-Hui"
@@ -573,7 +578,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2011"
 	%} </li>
 
-
+<p style="color:orange"> Introduces to phylogenetics the stepping-stone estimator for computing Bayes factors. </p>
 
 	<li> {% include citation.html
 		authors = "May, Michael R and Carl J. Rothfels"
@@ -586,6 +591,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2021"
 	%} </li>
 
+<p style="color:orange"> This paper describes a strange and long-overlooked "glitch" in how we generally do Bayesian inference on tree models, a glitch that results in Bayes factors for tree models, as typically computed, being unreliable. And discusses ways to address this issue. </p>
 
 	<li> {% include citation.html
 		authors = "Bollback, Jonathan P"
