@@ -538,7 +538,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1981"
 	%} </li>
 
-<p style="color:orange"> Introduces what we know call the "Robinson-Foulds distance" between phylogenetic trees. </p>
+<p style="color:orange"> Introduces what we now call the "Robinson-Foulds distance" between phylogenetic trees. </p>
 
 	<li> {% include citation.html
 		authors = "Kuhner, Mary K. and Joseph Felsenstein"
@@ -551,7 +551,7 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "1994"
 	%} </li>
 
-<p style="color:orange"> Introduces what we know call the "Kuhner-Felsenstein distance" between phylogenetic trees. </p>
+<p style="color:orange"> Introduces what we now call the "Kuhner-Felsenstein distance" between phylogenetic trees. </p>
 
 
 #### Assessing results: Model comparison and model adequacy 
