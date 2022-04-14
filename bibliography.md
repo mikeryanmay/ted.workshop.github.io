@@ -552,10 +552,10 @@ _A list of papers that we think are important for understanding divergence-time 
 	%} </li>
 
 <p style="color:orange"> Introduces what we now call the "Kuhner-Felsenstein distance" between phylogenetic trees. </p>
-
+</ul>
 
 #### Assessing results: Model comparison and model adequacy 
-
+<ul>
 	<li> {% include citation.html
 		authors = "Kass, Robert E. and Adrian E. Raftery"
 		title   = "Bayes factors"
