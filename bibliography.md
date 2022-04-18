@@ -47,7 +47,7 @@ _A list of papers that we think are important for understanding divergence-time 
         year="2002"	
   %} </li>
     
-     <p style="color:orange"> An introduction to the concept of non-identifiability, with a focus on Bayesian phylogenetics, and using relaxed clocks as an example.) </p>
+     <p style="color:orange"> An introduction to the concept of non-identifiability, with a focus on Bayesian phylogenetics, and using relaxed clocks as an example. </p>
 
 <li> {% include citation.html
 		authors = "Dos Reis, Mario and Ziheng Yang"
@@ -98,6 +98,19 @@ _A list of papers that we think are important for understanding divergence-time 
 	%} </li>
 
     <p style="color:orange"> The title says it all? This paper discusses the impact of non-identifiability on a focal problem---the crown age of the angiosperms---and points out that the estimates of that age are effectively determined by the priors used in the analysis. They also make the excellent point that so-called "molecular age estimates" are not molecular at all---effectively all the temporal data comes from the fossils (and the models), not from the molecular data. </p>
+
+	<li> {% include citation.html
+		authors = "May, Michael R., Dori L. Contreras, Michael A. Sundue, Nathalie S. Nagalingum, Cindy V. Looy,  and Carl J. Rothfels"
+		title   = "Inferring the Total-Evidence Timescale of Marattialean Fern Evolution in the Face of Model Sensitivity"
+		journal = "Systematic Biology"
+		doi     = "https://doi.org/10.1093/sysbio/syab020"
+		volume  = "70"
+		issue   = "6"
+		pages   = "1232--1255"
+		year    = "2021"
+	%} </li>
+
+    <p style="color:orange"> The non-identifiabilty inherent in divergence-time estimation, and thus prior sensitivity, is a major theme of this paper. For our dataset, the tree model has a huge effect (more so than any other model component), and we show that the "uniform prior" on timetrees, as typically constructed has some pathological behavior and should be avoided (in our opinion, at least). </p>
 
 </ul>
 
