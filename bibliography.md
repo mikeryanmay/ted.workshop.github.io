@@ -36,7 +36,20 @@ _A list of papers that we think are important for understanding divergence-time 
 
 <ul>
 
-	<li> {% include citation.html
+  
+<li> {% include citation.html
+        title="Identifiability of parameters in MCMC Bayesian inference of phylogeny"
+        authors="Rannala Bruce"
+        journal="Systematic Biology"
+        volume="51"
+        number="5"
+        pages="754--760"
+        year="2002"	
+  %} </li>
+    
+     <p style="color:orange"> An introduction to the concept of non-identifiability, with a focus on Bayesian phylogenetics, and using relaxed clocks as an example.) </p>
+
+<li> {% include citation.html
 		authors = "Dos Reis, Mario and Ziheng Yang"
 		title   = "The unbearable uncertainty of Bayesian divergence time estimation"
 		journal = "Journal of Systematics and Evolution"
