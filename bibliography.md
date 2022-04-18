@@ -264,6 +264,19 @@ _A list of papers that we think are important for understanding divergence-time 
      <p style="color:orange"> Welcome to the FBD! It took me (Carl) a long time to appreciate the importance of this paper; it's a lot more than simply allowing for the inference of sampled ancestors. Hopefully this workshop has made some of these impacts more apparent. Regardless, if you have any questions, ask us! </p>
 
 	<li> {% include citation.html
+		authors = "Zhang, Chi, Tanja Stadler, Seraina Klopfstein, Tracy A. Heath, and  Fredrik Ronquist"
+		title   = "Total-evidence dating under the fossilized birth--death process"
+		journal = "Systematic biology"
+		doi     = "https://doi.org/10.1093/sysbio/syv080"
+		volume  = "65"
+		issue   = "2"
+		pages   = "228-249"
+		year    = "2016"
+	%} </li>
+
+     <p style="color:orange"> With Gavryushkina et al. (below) the first major application of the fossilized birth-death model with TED. This paper also introduces a "diversified sampling" tree prior. </p>
+
+<li> {% include citation.html
 		authors = "Gavryushkina, Alexandra, Tracy A. Heath, Daniel T. Ksepka, Tanja Stadler, David Welch, and Alexei J. Drummond"
 		title   = "Bayesian total-evidence dating reveals the recent crown radiation of penguins"
 		journal = "Systematic biology"
@@ -274,17 +287,8 @@ _A list of papers that we think are important for understanding divergence-time 
 		year    = "2017"
 	%} </li>
 
+     <p style="color:orange"> With Zhang et al. (above) the first major application of the fossilized birth-death model with TED. </p>
 
-	<li> {% include citation.html
-		authors = "Zhang, Chi, Tanja Stadler, Seraina Klopfstein, Tracy A. Heath, and  Fredrik Ronquist"
-		title   = "Total-evidence dating under the fossilized birth--death process"
-		journal = "Systematic biology"
-		doi     = "https://doi.org/10.1093/sysbio/syv080"
-		volume  = "65"
-		issue   = "2"
-		pages   = "228-249"
-		year    = "2016"
-	%} </li>
 
 </ul>
 
